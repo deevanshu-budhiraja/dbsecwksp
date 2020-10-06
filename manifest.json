@@ -1,0 +1,52 @@
+{
+    "tutorials": [
+        {
+            "title": "Oracle Database Security Solutions Workshop",
+            "description":"Workhop Overview",
+            "publisheddate": "01/15/2020",
+            "filename":"./about-the-workshop/content.md"
+        },
+        {
+            "title": "Lab 0: Accessing the Labs environment",
+            "description":"Accessing the Labs environment",
+            "publisheddate": "04/21/2020",
+            "filename":"./lab000/lab000_accessing.md"
+        },
+        {
+            "title": "Lab 1: Database Security Assessment Tool",
+            "description":"Database Security Assessment Tool",
+            "publisheddate": "04/24/2020",
+            "filename":"./lab100/lab100_dbsat.md"
+        },
+        {
+            "title": "Lab 2: Network Encryption",
+            "description":"Lab 2: Network Encryption",
+            "publisheddate": "05/05/2020",
+            "filename":"./lab200/lab200_network_encryption.md"
+        },
+        {
+            "title": "Lab 3: Transparent Data Encryption",
+            "description":"Lab 3: Transparent Data Encryption",
+            "publisheddate": "05/08/2020",
+            "filename":"./lab300/lab300_transparent_data_encryption.md"
+        },
+        {
+            "title": "Lab 4: Database Vault",
+            "description":"Lab 6: Database Vault",
+            "publisheddate": "05/08/2020",
+            "filename":"./lab600/lab600_database_vault.md"
+        },
+        {
+            "title": "Lab 5: Database Audit",
+            "description":"Lab 7: Database Audit",
+            "publisheddate": "04/21/2020",
+            "filename":"./lab700/lab700_database_audit.md"
+        },
+        {
+            "title": "Lab 6: Audit Vault",
+            "description":"Lab 8",
+            "publisheddate": "04/21/2020",
+            "filename":"./lab800/lab800_audit_vault.md"
+        }
+    ]
+}
